@@ -1,6 +1,4 @@
 
-$fn = 36;
-
 module acube(
     size = 20, 
     radius = 5, 

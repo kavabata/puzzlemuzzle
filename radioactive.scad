@@ -1,5 +1,4 @@
 
-$fn = 256;
 module rad (radius = 40, height = 5) {
     difference () {
         cylinder(height, radius, radius);
